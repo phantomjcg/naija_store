@@ -89,7 +89,7 @@
     * ------------------------------------------------------ */
     var ssFinalCountdown = function() {
 
-        var finalDate =  new Date("March 04, 2021 15:37:25").getTime();
+        var finalDate =  new Date("march 04, 2022 15:37:25").getTime();
         //Déclenchement du compte à rebours ici -date: "Mar 25 2021",
 
         $('.home-content__clock').countdown(finalDate)
